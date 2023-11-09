@@ -23,8 +23,8 @@ The challenge was to build out the QR code component and get it looking as close
 ![Desktop-Version](./images/image-JP-desktop-version.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution URL](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-css-and-flexbox-2eSyhBmr1j)
+- Live Site URL: [My Live site URL](https://janisha1.github.io/FEM-QR-Code/)
 
 ## My process
 ### Built with
